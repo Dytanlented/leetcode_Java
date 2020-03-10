@@ -1,8 +1,8 @@
 ### Algorithm
 
 1. Use two pointers `start` and `end` starting from head and tail respectively.
-2. Find the first two character which are not equal. If cannot find then return true, else there are two posibilities. 
-3. Let's ignore character at the index of `start` or `end`, check the resulting string to see if it is palindrom.
+2. Find the first two characters which are not equal. If cannot find then return true, else there are two posibilities. 
+3. Let's ignore character at the index of `start` or `end`, check the resulting string to see if it is palindrome.
 
 ### Solutions
 
