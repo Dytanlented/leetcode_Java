@@ -24,3 +24,9 @@ class Solution {
     }
 }
 ```
+
+### Complexity Analysis
+
++ Time Complexity: O(N), where N is number of pixels.
+
++ Space Complexity: O(N), the size of implicit call stack when calling DFS. 
