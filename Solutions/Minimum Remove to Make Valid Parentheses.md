@@ -1,7 +1,7 @@
 ### Algorithm
 
-1. Use char array to store wheather copy this character, if not then set to `0`. Start from left to right, if character is `)` and  the number of `)` is greater or equal to `(`, set to '0'. 
-2. We then got the number of `(` and `)`, start from right to left and set the extra `(` to '0'.
+1. Use char array to store wheather copy this character, if not then set to `0`. Start from left to right, if character is `)` and  the number of `)` is greater or equal to `(`, set to `0`. 
+2. We then got the number of `(` and `)`, start from right to left and set the extra `(` to `0`.
 3. Copy the resulting char array.
 
 ### Solutions
