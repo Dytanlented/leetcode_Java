@@ -67,6 +67,6 @@ class Solution {
 
 ### Complexity Analysis
 
-+ Time Complexity: O(H), where `H` is the maximum tree level.
++ Time Complexity: O(H), where `H` is the tree level.
 
 + Space Complexity: O(1), for storing the closest value.
